@@ -5,7 +5,6 @@ subheadline: Templates
 title:  "Sonar Survey Fundamentals"
 teaser: "Guide for conducting sonar surveys."
 breadcrumb: true
-permalink: "/crabpot/crabpot-survey"
 tags:
     - post format
 categories:
