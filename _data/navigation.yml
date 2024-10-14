@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "Crab Pot Detection"
-    url: "https://github.com/CameronBodine/CrabDetect"
+    url: "/crabpot/"
 
 # - title: "Templates"
 #   url: "/design/"
