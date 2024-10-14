@@ -17,8 +17,10 @@ widget1:
 
 widget2:
   title: "Sonar Survey Fundamentals"
-  url: 'https://github.com/CameronBodine/CrabDetect'
+  url: 'https://cshel-ud.github.io//crabpot/crabpot-survey'
   image: widget-1-302x182.jpg
   text: 'Learn how to collect high-quality sonar datasets.' 
 
 ---
+
+Some text
