@@ -9,6 +9,8 @@ tags:
     - post format
 categories:
     - crabpot
+permalink: /crabpot/crabpot-survey/
+
 # image:
 #     thumb: gallery-example-3-thumb.jpg
 #     title: gallery-example-3.jpg
